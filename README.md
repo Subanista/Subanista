@@ -1,7 +1,6 @@
 ### Hi I'm Subanista👋
 
 
-- 🔭 I’m currently working on D EM GRAYCT PVT LTD
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with coding
