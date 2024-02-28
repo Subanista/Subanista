@@ -1,7 +1,7 @@
 ### Hi I'm Subanista👋
 
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning FLUTTER
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about my passion 
